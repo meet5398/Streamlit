@@ -1,2 +1,2 @@
 # Streamlit
-It is open-source app framework for Machine Learning and Data Science team 
+It is open-source app framework in python language  for Machine Learning and Data Science Application
